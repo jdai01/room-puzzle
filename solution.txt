@@ -1,0 +1,9 @@
+Rudolph has a pet hamster.
+
+
+* Notes:
+Prolog compiler (https://swish.swi-prolog.org) was used.
+
+* Reference:
+The logic puzzle was modeled in Prolog based on the example provided by SWISH: Houses Puzzle.  
+Available at: https://swish.swi-prolog.org/example/houses_puzzle.pl
